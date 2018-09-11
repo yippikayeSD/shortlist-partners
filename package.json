@@ -1,0 +1,26 @@
+{
+  "name": "shortlist-partners",
+  "version": "1.0.0",
+  "description": "A simple advertisement website for view and exchange of information regarding shortlisting services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shortlist",
+    "partner",
+    "CV-shortlisting",
+    "resume",
+    "shortlisting",
+    "HR",
+    "management"
+  ],
+  "dependencies": {
+    "express": "^4.16.3",
+    "body-parser": "^1.18.3",
+    "express-validator": "^5.3.0",
+    "ejs": "^2.6.1"
+  },
+  "author": "yippikaye",
+  "license": "ISC"
+}
