@@ -35,7 +35,7 @@ app.get('/',(req,res)=>{
 
 
 //configuring express server 
-app.listen(process.env.port || port, ()=>{
+app.listen(process.env.PORT || port, ()=>{
     console.log('Port opened successfully. Server now listening @port: '+port);
     
 });
